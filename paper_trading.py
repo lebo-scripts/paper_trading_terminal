@@ -1,8 +1,3 @@
-# ==============================================================================
-# PROJECT 3: Simulated Paper Trading Terminal (Intermediate Level)
-# An interactive command terminal simulating live paper trading.
-# Manages account state, processes buy/sell trades, and fetches live quotes.
-# ==============================================================================
 
 import json
 import os

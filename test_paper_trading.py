@@ -1,7 +1,3 @@
-# ==============================================================================
-# PROJECT 3 UNIT TESTS: test_paper_trading.py
-# Verifies trade execution logic, transaction constraints, and account updates.
-# ==============================================================================
 
 import unittest
 from unittest.mock import patch

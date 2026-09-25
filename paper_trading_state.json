@@ -1,0 +1,59 @@
+{
+    "cash": 4782.586410522461,
+    "portfolio": {
+        "AAPL": {
+            "shares": 8.0,
+            "avg_cost": 336.4933369954427
+        },
+        "DIS": {
+            "shares": 10.0,
+            "avg_cost": 105.0999984741211
+        },
+        "SPCX": {
+            "shares": 10.0,
+            "avg_cost": 148.1199951171875
+        }
+    },
+    "history": [
+        {
+            "timestamp": "2026-09-25 15:36:11",
+            "type": "BUY",
+            "ticker": "AAPL",
+            "shares": 5.0,
+            "price": 335.2300109863281,
+            "total": 1676.1500549316406
+        },
+        {
+            "timestamp": "2026-09-25 15:37:01",
+            "type": "BUY",
+            "ticker": "DIS",
+            "shares": 10.0,
+            "price": 105.0999984741211,
+            "total": 1050.999984741211
+        },
+        {
+            "timestamp": "2026-09-25 15:38:09",
+            "type": "BUY",
+            "ticker": "SPCX",
+            "shares": 10.0,
+            "price": 148.1199951171875,
+            "total": 1481.199951171875
+        },
+        {
+            "timestamp": "2026-09-25 16:49:05",
+            "type": "BUY",
+            "ticker": "AAPL",
+            "shares": 10.0,
+            "price": 337.125,
+            "total": 3371.25
+        },
+        {
+            "timestamp": "2026-09-25 16:49:59",
+            "type": "SELL",
+            "ticker": "AAPL",
+            "shares": 7.0,
+            "price": 337.4552001953125,
+            "total": 2362.1864013671875
+        }
+    ]
+}
